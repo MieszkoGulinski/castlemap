@@ -1,0 +1,11 @@
+{
+  "name": "zamki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^4.8.2"
+  }
+}

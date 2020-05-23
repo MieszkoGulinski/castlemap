@@ -1,0 +1,29 @@
+head, body {
+  padding: 0 0;
+  margin: 0 0;
+}
+
+#main-wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+#map-wrapper {
+  flex-grow: 1;
+}
+
+#labels-wrapper {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.label {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: 0 5px;
+}
