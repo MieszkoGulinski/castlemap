@@ -6,6 +6,6 @@
   "author": "",
   "private": true,
   "dependencies": {
-    "csv-parse": "^4.8.2"
+    "csv-parse": "^7.0.2"
   }
 }
